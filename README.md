@@ -46,3 +46,22 @@ I'm building practical SQL skills focused on:
 - **Future Tools:** R (biostatistics), Tableau (visualization)
 
 ## Progress Tracker
+Week 1: [████░░░] Day 1/7 Complete
+Overall Bootcamp: [█░░░░░░░░░] 5% Complete
+
+## Background
+
+**Namrata Chauhan**  
+Master of Biotechnology, Monash University (2024-2026)  
+Focus: Health Data Analytics, Epidemiology, Biostatistics  
+Internship: Western Health (EMR & REDCap data management)
+
+## Status
+
+🟢 **Active Learning** - Updated January 9, 2025  
+📚 Currently: SQL fundamentals  
+🎯 Goal: Health data analyst role in Australia
+
+---
+
+*This repository is part of a 7-week intensive bootcamp preparing for health data analyst positions.*
